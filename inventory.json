@@ -1,19 +1,10 @@
 {
   "dealership": "Straightline Chevrolet Buick Gmc Ltd",
-  "generated_at": "2026-10-26T10:58:02",
-  "vehicle_count": 137,
+  "generated_at": "2026-11-17T13:47:04",
+  "vehicle_count": 133,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
-    {
-      "name": "2014 Chevrolet Equinox LT",
-      "vin": "1GNFLGEK8EZ125455",
-      "url": "https://willyml1979-dotcom.github.io/straightline-chevrolet-buick-gmc-ltd-mirror/used/33637753ca18.html",
-      "year": 2014,
-      "make": "Chevrolet",
-      "model": "Equinox",
-      "condition": "used"
-    },
     {
       "name": "2017 Chevrolet Camaro 2LT",
       "vin": "1G1FD1RX8H0193720",
@@ -24,12 +15,21 @@
       "condition": "used"
     },
     {
-      "name": "2020 GMC Terrain Denali",
-      "vin": "3GKALXEX8LL165011",
-      "url": "https://willyml1979-dotcom.github.io/straightline-chevrolet-buick-gmc-ltd-mirror/used/d39fd2c622f1.html",
-      "year": 2020,
-      "make": "GMC",
-      "model": "Terrain",
+      "name": "2019 Chevrolet Silverado 1500 LT Trail Boss",
+      "vin": "1GCPYFED9KZ252799",
+      "url": "https://willyml1979-dotcom.github.io/straightline-chevrolet-buick-gmc-ltd-mirror/used/1ef775d99616.html",
+      "year": 2019,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "condition": "used"
+    },
+    {
+      "name": "2019 Jeep Wrangler Sport",
+      "vin": "1C4HJXAN0KW686317",
+      "url": "https://willyml1979-dotcom.github.io/straightline-chevrolet-buick-gmc-ltd-mirror/used/4dc09dc41413.html",
+      "year": 2019,
+      "make": "Jeep",
+      "model": "Wrangler",
       "condition": "used"
     },
     {
@@ -60,6 +60,15 @@
       "condition": "used"
     },
     {
+      "name": "2021 Hyundai Kona Preferred",
+      "vin": "KM8K2CAA4MU711478",
+      "url": "https://willyml1979-dotcom.github.io/straightline-chevrolet-buick-gmc-ltd-mirror/used/6e19575c0be5.html",
+      "year": 2021,
+      "make": "Hyundai",
+      "model": "Kona",
+      "condition": "used"
+    },
+    {
       "name": "2021 Jeep Compass Altitude",
       "vin": "3C4NJDEB4MT521347",
       "url": "https://willyml1979-dotcom.github.io/straightline-chevrolet-buick-gmc-ltd-mirror/used/64701177e4c0.html",
@@ -75,42 +84,6 @@
       "year": 2021,
       "make": "Ram",
       "model": "3500",
-      "condition": "used"
-    },
-    {
-      "name": "2021 Toyota Tacoma BASE",
-      "vin": "5TFDZ5BN5MX056204",
-      "url": "https://willyml1979-dotcom.github.io/straightline-chevrolet-buick-gmc-ltd-mirror/used/39f4086dea30.html",
-      "year": 2021,
-      "make": "Toyota",
-      "model": "Tacoma",
-      "condition": "used"
-    },
-    {
-      "name": "2022 Buick Encore GX Preferred",
-      "vin": "KL4MMCSL7NB131897",
-      "url": "https://willyml1979-dotcom.github.io/straightline-chevrolet-buick-gmc-ltd-mirror/used/b6377666c20f.html",
-      "year": 2022,
-      "make": "Buick",
-      "model": "Encore GX",
-      "condition": "used"
-    },
-    {
-      "name": "2022 Chevrolet Equinox LT",
-      "vin": "2GNAXUEV1N6115921",
-      "url": "https://willyml1979-dotcom.github.io/straightline-chevrolet-buick-gmc-ltd-mirror/used/def3b22b45ca.html",
-      "year": 2022,
-      "make": "Chevrolet",
-      "model": "Equinox",
-      "condition": "used"
-    },
-    {
-      "name": "2022 Chevrolet Silverado 1500 LTD Custom Trail Boss",
-      "vin": "1GCPYCEK7NZ108699",
-      "url": "https://willyml1979-dotcom.github.io/straightline-chevrolet-buick-gmc-ltd-mirror/used/1428944d4e05.html",
-      "year": 2022,
-      "make": "Chevrolet",
-      "model": "Silverado 1500",
       "condition": "used"
     },
     {
@@ -132,18 +105,18 @@
       "condition": "used"
     },
     {
-      "name": "2022 GMC Terrain SLT",
-      "vin": "3GKALVEV3NL262218",
-      "url": "https://willyml1979-dotcom.github.io/straightline-chevrolet-buick-gmc-ltd-mirror/used/3a71ebb0855a.html",
+      "name": "2022 Jeep Compass North",
+      "vin": "3C4NJDBB8NT132314",
+      "url": "https://willyml1979-dotcom.github.io/straightline-chevrolet-buick-gmc-ltd-mirror/used/24da0230cb41.html",
       "year": 2022,
-      "make": "GMC",
-      "model": "Terrain",
+      "make": "Jeep",
+      "model": "Compass",
       "condition": "used"
     },
     {
       "name": "2022 Jeep Compass North",
-      "vin": "3C4NJDBB8NT132314",
-      "url": "https://willyml1979-dotcom.github.io/straightline-chevrolet-buick-gmc-ltd-mirror/used/24da0230cb41.html",
+      "vin": "3C4NJDBB8NT235619",
+      "url": "https://willyml1979-dotcom.github.io/straightline-chevrolet-buick-gmc-ltd-mirror/used/c8346f9ced44.html",
       "year": 2022,
       "make": "Jeep",
       "model": "Compass",
@@ -321,15 +294,6 @@
       "condition": "used"
     },
     {
-      "name": "2025 Chevrolet Equinox AWD LT",
-      "vin": "3GNAXPEG3SL307495",
-      "url": "https://willyml1979-dotcom.github.io/straightline-chevrolet-buick-gmc-ltd-mirror/used/0ec5290f835f.html",
-      "year": 2025,
-      "make": "Chevrolet",
-      "model": "Equinox",
-      "condition": "used"
-    },
-    {
       "name": "2025 Chevrolet Suburban Z71",
       "vin": "1GNS6DRD7SR381629",
       "url": "https://willyml1979-dotcom.github.io/straightline-chevrolet-buick-gmc-ltd-mirror/used/7093c56863f3.html",
@@ -348,21 +312,12 @@
       "condition": "used"
     },
     {
-      "name": "2025 Chevrolet Trailblazer LT",
-      "vin": "KL79MRSL7SB134693",
-      "url": "https://willyml1979-dotcom.github.io/straightline-chevrolet-buick-gmc-ltd-mirror/used/e4831aba0cb5.html",
+      "name": "2025 Chevrolet Trax 2RS",
+      "vin": "KL77LJE24SC284401",
+      "url": "https://willyml1979-dotcom.github.io/straightline-chevrolet-buick-gmc-ltd-mirror/used/add9ff0e1a10.html",
       "year": 2025,
       "make": "Chevrolet",
-      "model": "Trailblazer",
-      "condition": "used"
-    },
-    {
-      "name": "2025 Chevrolet Trailblazer LT",
-      "vin": "KL79MRSL3SB177444",
-      "url": "https://willyml1979-dotcom.github.io/straightline-chevrolet-buick-gmc-ltd-mirror/used/fdf0f782245f.html",
-      "year": 2025,
-      "make": "Chevrolet",
-      "model": "Trailblazer",
+      "model": "Trax",
       "condition": "used"
     },
     {
@@ -805,6 +760,15 @@
       "make": "Chevrolet",
       "model": "Trax",
       "condition": "new"
+    },
+    {
+      "name": "2026 GMC Acadia AT4",
+      "vin": "1GKENPKS6TJ157730",
+      "url": "https://willyml1979-dotcom.github.io/straightline-chevrolet-buick-gmc-ltd-mirror/used/41d76f77c360.html",
+      "year": 2026,
+      "make": "GMC",
+      "model": "Acadia",
+      "condition": "used"
     },
     {
       "name": "2026 GMC Acadia ELEVATION",
