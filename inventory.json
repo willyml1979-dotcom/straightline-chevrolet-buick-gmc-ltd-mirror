@@ -1,7 +1,7 @@
 {
   "dealership": "Straightline Chevrolet Buick Gmc Ltd",
-  "generated_at": "2026-11-18T03:19:54",
-  "vehicle_count": 152,
+  "generated_at": "2026-11-18T03:59:36",
+  "vehicle_count": 158,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -645,6 +645,15 @@
       "condition": "new"
     },
     {
+      "name": "2026 Chevrolet Silverado 3500 HD LT SRW",
+      "vin": "2GC4KTE71T1255039",
+      "url": "https://willyml1979-dotcom.github.io/straightline-chevrolet-buick-gmc-ltd-mirror/new/9e011c774f92.html",
+      "year": 2026,
+      "make": "Chevrolet",
+      "model": "Silverado 3500",
+      "condition": "new"
+    },
+    {
       "name": "2026 Chevrolet Tahoe LT",
       "vin": "1GNS6NKD9TR472130",
       "url": "https://willyml1979-dotcom.github.io/straightline-chevrolet-buick-gmc-ltd-mirror/new/51d1b5e543cd.html",
@@ -924,6 +933,15 @@
       "condition": "new"
     },
     {
+      "name": "2026 GMC Sierra 1500 AT4",
+      "vin": "3GTUUEE82TG503269",
+      "url": "https://willyml1979-dotcom.github.io/straightline-chevrolet-buick-gmc-ltd-mirror/new/29ef68fdfe4e.html",
+      "year": 2026,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "condition": "new"
+    },
+    {
       "name": "2026 GMC Sierra 2500 HD AT4X",
       "vin": "1GT4UZEY3TF440806",
       "url": "https://willyml1979-dotcom.github.io/straightline-chevrolet-buick-gmc-ltd-mirror/new/379bab501616.html",
@@ -1059,6 +1077,15 @@
       "condition": "new"
     },
     {
+      "name": "2026 GMC Sierra 3500 HD DENALI SRW",
+      "vin": "1GT4UWEYXTF448495",
+      "url": "https://willyml1979-dotcom.github.io/straightline-chevrolet-buick-gmc-ltd-mirror/new/5a69d05631d9.html",
+      "year": 2026,
+      "make": "GMC",
+      "model": "Sierra 3500",
+      "condition": "new"
+    },
+    {
       "name": "2026 GMC Yukon AT4 Ultimate",
       "vin": "1GKS2VK87TR454236",
       "url": "https://willyml1979-dotcom.github.io/straightline-chevrolet-buick-gmc-ltd-mirror/new/cc4c85b713d3.html",
@@ -1164,6 +1191,33 @@
       "year": 2027,
       "make": "Chevrolet",
       "model": "Equinox",
+      "condition": "new"
+    },
+    {
+      "name": "2027 Chevrolet Equinox LT",
+      "vin": "3GNAXPEG8VL275597",
+      "url": "https://willyml1979-dotcom.github.io/straightline-chevrolet-buick-gmc-ltd-mirror/new/90c500e7a2d8.html",
+      "year": 2027,
+      "make": "Chevrolet",
+      "model": "Equinox",
+      "condition": "new"
+    },
+    {
+      "name": "2027 Chevrolet Silverado 1500 LT Trail Boss",
+      "vin": "3GCUKFEM0VG111466",
+      "url": "https://willyml1979-dotcom.github.io/straightline-chevrolet-buick-gmc-ltd-mirror/new/a22227f0e91a.html",
+      "year": 2027,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "condition": "new"
+    },
+    {
+      "name": "2027 Chevrolet Silverado 1500 LT Trail Boss",
+      "vin": "3GCUKFEM3VG111431",
+      "url": "https://willyml1979-dotcom.github.io/straightline-chevrolet-buick-gmc-ltd-mirror/new/9bee0cd23d5f.html",
+      "year": 2027,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
       "condition": "new"
     },
     {
