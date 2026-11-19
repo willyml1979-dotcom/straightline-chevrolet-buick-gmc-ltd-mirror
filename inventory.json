@@ -1,10 +1,19 @@
 {
   "dealership": "Straightline Chevrolet Buick Gmc Ltd",
-  "generated_at": "2026-11-18T12:46:13",
+  "generated_at": "2026-11-18T22:34:32",
   "vehicle_count": 158,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
+    {
+      "name": "2011 Ford Fusion SE",
+      "vin": "3FAHP0HA4BR146101",
+      "url": "https://willyml1979-dotcom.github.io/straightline-chevrolet-buick-gmc-ltd-mirror/used/3559c326db37.html",
+      "year": 2011,
+      "make": "Ford",
+      "model": "Fusion",
+      "condition": "used"
+    },
     {
       "name": "2017 Chevrolet Camaro 2LT",
       "vin": "1G1FD1RX8H0193720",
@@ -30,6 +39,15 @@
       "year": 2019,
       "make": "Jeep",
       "model": "Wrangler",
+      "condition": "used"
+    },
+    {
+      "name": "2020 Chevrolet Silverado 1500 Work Truck",
+      "vin": "1GCUYAEF3LZ132036",
+      "url": "https://willyml1979-dotcom.github.io/straightline-chevrolet-buick-gmc-ltd-mirror/used/8b372a4301cb.html",
+      "year": 2020,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
       "condition": "used"
     },
     {
@@ -93,15 +111,6 @@
       "year": 2022,
       "make": "GMC",
       "model": "Sierra 1500",
-      "condition": "used"
-    },
-    {
-      "name": "2022 GMC Terrain SLT",
-      "vin": "3GKALVEV0NL100742",
-      "url": "https://willyml1979-dotcom.github.io/straightline-chevrolet-buick-gmc-ltd-mirror/used/34ae5ee59d4c.html",
-      "year": 2022,
-      "make": "GMC",
-      "model": "Terrain",
       "condition": "used"
     },
     {
@@ -309,15 +318,6 @@
       "year": 2025,
       "make": "Chevrolet",
       "model": "Trailblazer",
-      "condition": "used"
-    },
-    {
-      "name": "2025 Chevrolet Trax 2RS",
-      "vin": "KL77LJE24SC284401",
-      "url": "https://willyml1979-dotcom.github.io/straightline-chevrolet-buick-gmc-ltd-mirror/used/add9ff0e1a10.html",
-      "year": 2025,
-      "make": "Chevrolet",
-      "model": "Trax",
       "condition": "used"
     },
     {
